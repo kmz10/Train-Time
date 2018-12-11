@@ -1,0 +1,93 @@
+
+body{
+   background:deepskyblue;
+   
+  
+}
+
+
+
+.jumbotron{
+    background-image:url("./assets/images/train-animated-gif-3.gif");
+    background-repeat:no-repeat ;
+    background-position: center;
+    background-size: cover;
+    color:rgba(255, 255, 255,20);
+    text-align: center;
+    margin-right: auto;
+    margin-left: auto;
+    width: 75%;
+    height: 0%;
+    
+}
+ 
+.display-4{
+    font-size: 200%;
+    font-weight:bolder;
+    
+}
+
+.lead{
+    font-weight: bold;
+}
+
+.tableTitle{
+    margin-left: 300px;
+}
+
+
+.table-responsive{
+    margin-left: 120px;
+    width: 87%;
+
+}
+
+#subForm{
+
+width: 75%;
+height:75%;
+margin-right:auto;
+margin-left: auto;
+
+}
+
+.form-body {
+    margin: 0 auto;
+ 
+    width:95%
+}
+
+th {
+    font-size: .95rem;
+}
+
+.table {
+    border-radius: 10px;
+}
+
+.card-header{
+    background:#212529;
+    color:white;
+}
+ 
+.card{
+
+    border: 1px solid #212529; 
+}
+.card-body{
+    background:#212529;
+    color:white;
+
+}
+.cardForm {
+    margin-top: 40px;
+    margin-right: 10px;
+}
+
+.submitTrainUpdate {
+	display:none;
+}
+
+.updateTrain {
+	display:none;
+}
